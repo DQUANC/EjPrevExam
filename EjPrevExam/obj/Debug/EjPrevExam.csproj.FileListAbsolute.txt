@@ -1,0 +1,10 @@
+C:\Users\daniq\Documents\UdeO\progra\EjPrevExam\EjPrevExam\bin\Debug\EjPrevExam.exe.config
+C:\Users\daniq\Documents\UdeO\progra\EjPrevExam\EjPrevExam\bin\Debug\EjPrevExam.exe
+C:\Users\daniq\Documents\UdeO\progra\EjPrevExam\EjPrevExam\bin\Debug\EjPrevExam.pdb
+C:\Users\daniq\Documents\UdeO\progra\EjPrevExam\EjPrevExam\obj\Debug\EjPrevExam.csproj.AssemblyReference.cache
+C:\Users\daniq\Documents\UdeO\progra\EjPrevExam\EjPrevExam\obj\Debug\EjPrevExam.Form1.resources
+C:\Users\daniq\Documents\UdeO\progra\EjPrevExam\EjPrevExam\obj\Debug\EjPrevExam.Properties.Resources.resources
+C:\Users\daniq\Documents\UdeO\progra\EjPrevExam\EjPrevExam\obj\Debug\EjPrevExam.csproj.GenerateResource.cache
+C:\Users\daniq\Documents\UdeO\progra\EjPrevExam\EjPrevExam\obj\Debug\EjPrevExam.csproj.CoreCompileInputs.cache
+C:\Users\daniq\Documents\UdeO\progra\EjPrevExam\EjPrevExam\obj\Debug\EjPrevExam.exe
+C:\Users\daniq\Documents\UdeO\progra\EjPrevExam\EjPrevExam\obj\Debug\EjPrevExam.pdb
